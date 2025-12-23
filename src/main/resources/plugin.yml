@@ -1,0 +1,4 @@
+name: KukoldyTab
+version: 1.0
+main: pl.kukoldy.tab.Main
+api-version: 1.20
